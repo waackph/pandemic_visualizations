@@ -1,0 +1,402 @@
+﻿_id,ags2,bundesland,ags5,kreis,kr_arm_alt,kr_sgb_qu,kr_arm_kind
+1,01,schleswig-holstein,01001,"flensburg, stadt",5.8,18.1,25.6
+2,01,schleswig-holstein,01002,"kiel, landeshauptstadt",5.9,18.3,30.2
+3,01,schleswig-holstein,01003,"luebeck, hansestadt",5.8,17.8,26.6
+4,01,schleswig-holstein,01004,"neumuenster, stadt",4.8,17.5,25.2
+5,01,schleswig-holstein,01051,dithmarschen,2.5,11.8,19.1
+6,01,schleswig-holstein,01053,herzogtum lauenburg,2.6,9.1,13.5
+7,01,schleswig-holstein,01054,nordfriesland,2.2,8.3,13.0
+8,01,schleswig-holstein,01055,ostholstein,2.7,9.0,13.4
+9,01,schleswig-holstein,01056,pinneberg,2.8,8.8,13.9
+10,01,schleswig-holstein,01057,ploen,2.2,8.5,11.9
+11,01,schleswig-holstein,01058,rendsburg-eckernfoerde,2.1,8.5,12.3
+12,01,schleswig-holstein,01059,schleswig-flensburg,2.7,9.7,14.1
+13,01,schleswig-holstein,01060,segeberg,2.8,8.1,11.5
+14,01,schleswig-holstein,01061,steinburg,2.9,10.3,15.3
+15,01,schleswig-holstein,01062,stormarn,2.2,6.3,9.5
+16,02,hamburg,02000,hamburg,7.6,14.5,20.0
+17,03,niedersachsen,03101,braunschweig,3.8,10.5,14.6
+18,03,niedersachsen,03102,salzgitter,3.7,17.0,26.5
+19,03,niedersachsen,03103,wolfsburg,2.1,8.7,13.3
+20,03,niedersachsen,03151,gifhorn,2.0,7.0,9.0
+21,03,niedersachsen,03153,goslar,3.3,12.6,20.1
+22,03,niedersachsen,03154,helmstedt,2.1,10.3,14.3
+23,03,niedersachsen,03155,northeim,2.3,9.9,14.6
+24,03,niedersachsen,03157,peine,2.0,9.8,15.7
+25,03,niedersachsen,03158,wolfenbuettel,2.9,9.3,13.1
+26,03,niedersachsen,03159,goettingen,3.1,9.7,12.7
+27,03,niedersachsen,03241,hannover,4.9,13.6,21.3
+28,03,niedersachsen,03251,diepholz,2.6,8.6,13.2
+29,03,niedersachsen,03252,hameln-pyrmont,3.5,12.5,20.3
+30,03,niedersachsen,03254,hildesheim,2.6,11.0,16.4
+31,03,niedersachsen,03255,holzminden,2.9,10.8,16.9
+32,03,niedersachsen,03256,nienburg/weser,2.8,11.1,17.4
+33,03,niedersachsen,03257,schaumburg,2.7,10.2,15.2
+34,03,niedersachsen,03351,celle,3.4,11.9,17.0
+35,03,niedersachsen,03352,cuxhaven,2.1,9.1,14.9
+36,03,niedersachsen,03353,harburg,2.2,6.3,9.7
+37,03,niedersachsen,03354,luechow-dannenberg,2.5,11.0,14.9
+38,03,niedersachsen,03355,lueneburg,3.2,9.9,14.0
+39,03,niedersachsen,03356,osterholz,2.0,6.3,9.3
+40,03,niedersachsen,03357,rotenburg (wuemme),2.6,7.6,8.8
+41,03,niedersachsen,03358,heidekreis,2.5,9.3,13.9
+42,03,niedersachsen,03359,stade,2.2,9.6,15.4
+43,03,niedersachsen,03360,uelzen,2.2,9.4,13.6
+44,03,niedersachsen,03361,verden,2.3,8.4,12.3
+45,03,niedersachsen,03401,delmenhorst,5.7,19.2,29.6
+46,03,niedersachsen,03402,emden,3.7,15.5,23.2
+47,03,niedersachsen,03403,oldenburg,4.6,14.1,22.4
+48,03,niedersachsen,03404,osnabrueck,5.8,14.3,23.0
+49,03,niedersachsen,03405,wilhelmshaven,4.4,20.0,31.7
+50,03,niedersachsen,03451,ammerland,2.2,7.3,11.2
+51,03,niedersachsen,03452,aurich,2.2,10.4,14.8
+52,03,niedersachsen,03453,cloppenburg,2.8,8.5,10.9
+53,03,niedersachsen,03454,emsland,2.2,7.1,7.9
+54,03,niedersachsen,03455,friesland,2.1,8.4,13.2
+55,03,niedersachsen,03456,grafschaft bentheim,2.3,7.7,10.4
+56,03,niedersachsen,03457,leer,2.4,8.6,7.7
+57,03,niedersachsen,03458,oldenburg,2.5,7.3,11.6
+58,03,niedersachsen,03459,osnabrueck,2.4,6.8,8.7
+59,03,niedersachsen,03460,vechta,3.0,7.9,10.8
+60,03,niedersachsen,03461,wesermarsch,2.9,11.2,17.8
+61,03,niedersachsen,03462,wittmund,2.5,8.9,12.9
+62,04,bremen,04011,bremen,6.2,17.4,30.5
+63,04,bremen,04012,bremerhaven,6.3,23.7,36.7
+64,05,nordrhein-westfalen,05111,duesseldorf,7.8,13.7,20.1
+65,05,nordrhein-westfalen,05112,duisburg,4.9,18.9,31.1
+66,05,nordrhein-westfalen,05113,essen,5.6,19.6,33.6
+67,05,nordrhein-westfalen,05114,krefeld,5.4,16.6,24.2
+68,05,nordrhein-westfalen,05116,moenchengladbach,6.1,19.1,32.1
+69,05,nordrhein-westfalen,05117,muelheim an der ruhr,4.6,15.6,25.9
+70,05,nordrhein-westfalen,05119,oberhausen,4.0,17.0,27.8
+71,05,nordrhein-westfalen,05120,remscheid,3.3,14.2,21.8
+72,05,nordrhein-westfalen,05122,solingen,3.8,13.1,18.5
+73,05,nordrhein-westfalen,05124,wuppertal,5.6,17.6,29.5
+74,05,nordrhein-westfalen,05154,kleve,3.0,9.0,11.6
+75,05,nordrhein-westfalen,05158,mettmann,3.3,10.4,16.2
+76,05,nordrhein-westfalen,05162,rhein-kreis neuss,3.0,9.3,14.5
+77,05,nordrhein-westfalen,05166,viersen,2.6,9.1,14.2
+78,05,nordrhein-westfalen,05170,wesel,2.6,10.4,15.7
+79,05,nordrhein-westfalen,05314,bonn,5.5,12.9,20.4
+80,05,nordrhein-westfalen,05315,koeln,7.6,14.8,21.8
+81,05,nordrhein-westfalen,05316,leverkusen,3.9,13.7,22.3
+82,05,nordrhein-westfalen,05334,aachen,4.5,12.9,19.5
+83,05,nordrhein-westfalen,05358,dueren,3.1,11.5,17.4
+84,05,nordrhein-westfalen,05362,rhein-erft-kreis,3.1,10.2,16.1
+85,05,nordrhein-westfalen,05366,euskirchen,2.9,8.5,12.8
+86,05,nordrhein-westfalen,05370,heinsberg,2.9,9.7,13.9
+87,05,nordrhein-westfalen,05374,oberbergischer kreis,2.8,8.3,10.5
+88,05,nordrhein-westfalen,05378,rheinisch-bergischer kreis,2.8,8.6,12.1
+89,05,nordrhein-westfalen,05382,rhein-sieg-kreis,2.8,8.4,12.7
+90,05,nordrhein-westfalen,05512,bottrop,3.0,13.5,21.1
+91,05,nordrhein-westfalen,05513,gelsenkirchen,5.5,23.8,40.4
+92,05,nordrhein-westfalen,05515,muenster,4.5,10.0,16.5
+93,05,nordrhein-westfalen,05554,borken,2.8,7.1,8.5
+94,05,nordrhein-westfalen,05558,coesfeld,2.6,6.3,8.2
+95,05,nordrhein-westfalen,05562,recklinghausen,3.6,15.1,25.1
+96,05,nordrhein-westfalen,05566,steinfurt,2.7,8.1,11.0
+97,05,nordrhein-westfalen,05570,warendorf,2.7,8.6,12.1
+98,05,nordrhein-westfalen,05711,bielefeld,4.8,15.6,22.7
+99,05,nordrhein-westfalen,05754,guetersloh,2.8,7.6,9.6
+100,05,nordrhein-westfalen,05758,herford,2.8,9.3,14.4
+101,05,nordrhein-westfalen,05762,hoexter,2.0,7.2,9.4
+102,05,nordrhein-westfalen,05766,lippe,3.0,10.3,15.1
+103,05,nordrhein-westfalen,05770,minden-luebbecke,3.2,10.1,14.6
+104,05,nordrhein-westfalen,05774,paderborn,3.5,9.6,12.8
+105,05,nordrhein-westfalen,05911,bochum,4.3,15.5,27.1
+106,05,nordrhein-westfalen,05913,dortmund,6.5,19.0,30.8
+107,05,nordrhein-westfalen,05914,hagen,4.7,17.6,30.5
+108,05,nordrhein-westfalen,05915,hamm,3.8,15.4,19.8
+109,05,nordrhein-westfalen,05916,herne,4.0,18.7,30.7
+110,05,nordrhein-westfalen,05954,ennepe-ruhr-kreis,3.1,11.0,17.5
+111,05,nordrhein-westfalen,05958,hochsauerlandkreis,2.8,7.9,10.6
+112,05,nordrhein-westfalen,05962,maerkischer kreis,3.1,11.3,16.2
+113,05,nordrhein-westfalen,05966,olpe,1.9,6.8,9.2
+114,05,nordrhein-westfalen,05970,siegen-wittgenstein,2.6,8.3,12.8
+115,05,nordrhein-westfalen,05974,soest,2.9,8.8,11.8
+116,05,nordrhein-westfalen,05978,unna,3.2,12.6,20.1
+117,06,hessen,06411,kreisfreie stadt darmstadt,5.9,12.3,20.8
+118,06,hessen,06412,kreisfreie stadt frankfurt am main,8.8,14.2,20.1
+119,06,hessen,06413,kreisfreie stadt offenbach am main,8.9,18.3,29.4
+120,06,hessen,06414,landeshauptstadt wiesbaden,6.8,15.3,23.3
+121,06,hessen,06431,bergstrasse,2.3,7.4,10.9
+122,06,hessen,06432,darmstadt-dieburg,2.2,7.4,11.3
+123,06,hessen,06433,gross-gerau,3.0,10.4,17.1
+124,06,hessen,06434,hochtaunus,2.5,6.5,9.2
+125,06,hessen,06435,main-kinzig,3.1,8.5,13.6
+126,06,hessen,06436,main-taunus,2.5,6.4,9.5
+127,06,hessen,06437,odenwaldkreis,2.5,8.1,12.8
+128,06,hessen,06438,offenbach,3.7,8.6,14.1
+129,06,hessen,06439,rheingau-taunus,2.2,7.0,10.9
+130,06,hessen,06440,wetterau,3.0,7.5,10.5
+131,06,hessen,06531,giessen,4.0,10.4,15.5
+132,06,hessen,06532,lahn-dill,3.2,9.8,13.2
+133,06,hessen,06533,limburg-weilburg,3.0,9.4,13.7
+134,06,hessen,06534,marburg-biedenkopf,2.8,8.1,11.8
+135,06,hessen,06535,vogelsberg,2.2,7.3,9.6
+136,06,hessen,06611,kreisfreie stadt kassel,7.4,17.0,25.9
+137,06,hessen,06631,fulda,3.0,6.8,8.7
+138,06,hessen,06632,hersfeld-rotenburg,2.4,7.8,11.2
+139,06,hessen,06633,kassel,2.1,7.2,11.0
+140,06,hessen,06634,schwalm-eder,2.4,7.5,10.7
+141,06,hessen,06635,waldeck-frankenberg,2.6,7.9,10.7
+142,06,hessen,06636,werra-meissner,2.8,10.2,15.5
+143,07,rheinland-pfalz,07111,stadt koblenz,5.8,12.6,20.2
+144,07,rheinland-pfalz,07131,ahrweiler,2.0,6.9,11.1
+145,07,rheinland-pfalz,07132,altenkirchen (ww),2.1,7.3,9.6
+146,07,rheinland-pfalz,07133,bad kreuznach,2.8,9.5,13.9
+147,07,rheinland-pfalz,07134,birkenfeld,2.6,9.0,14.3
+148,07,rheinland-pfalz,07135,cochem-zell,2.2,5.8,7.9
+149,07,rheinland-pfalz,07137,mayen-koblenz,2.7,7.6,10.7
+150,07,rheinland-pfalz,07138,neuwied,3.3,8.9,12.8
+151,07,rheinland-pfalz,07140,rhein-hunsrueck-kreis,2.1,6.4,8.4
+152,07,rheinland-pfalz,07141,rhein-lahn-kreis,2.3,6.6,10.9
+153,07,rheinland-pfalz,07143,westerwaldkreis,1.8,6.0,8.4
+154,07,rheinland-pfalz,07211,stadt trier,5.6,9.8,14.2
+155,07,rheinland-pfalz,07231,bernkastel-wittlich,2.3,6.0,7.9
+156,07,rheinland-pfalz,07232,eifelkreis bitburg-pruem,1.8,5.0,6.8
+157,07,rheinland-pfalz,07233,vulkaneifel,2.1,6.3,8.2
+158,07,rheinland-pfalz,07235,trier-saarburg,1.9,4.7,6.2
+159,07,rheinland-pfalz,07311,stadt frankenthal (pfalz),2.9,10.8,17.7
+160,07,rheinland-pfalz,07312,stadt kaiserslautern,6.4,15.2,25.1
+161,07,rheinland-pfalz,07313,stadt landau in der pfalz,2.8,9.1,14.3
+162,07,rheinland-pfalz,07314,stadt ludwigshafen a. rh.,4.5,15.8,25.1
+163,07,rheinland-pfalz,07315,stadt mainz,4.3,10.6,17.8
+164,07,rheinland-pfalz,07316,stadt neustadt a.d. w.,2.6,10.0,16.0
+165,07,rheinland-pfalz,07317,stadt pirmasens,3.5,18.1,29.2
+166,07,rheinland-pfalz,07318,stadt speyer,3.7,9.8,13.7
+167,07,rheinland-pfalz,07319,stadt worms,4.1,13.6,21.6
+168,07,rheinland-pfalz,07320,stadt zweibruecken,3.4,11.4,16.9
+169,07,rheinland-pfalz,07331,alzey-worms,2.0,6.1,9.2
+170,07,rheinland-pfalz,07332,bad duerkheim,1.7,6.1,8.9
+171,07,rheinland-pfalz,07333,donnersbergkreis,2.2,6.9,10.4
+172,07,rheinland-pfalz,07334,germersheim,2.3,6.6,10.2
+173,07,rheinland-pfalz,07335,kaiserslautern,1.7,7.2,11.0
+174,07,rheinland-pfalz,07336,kusel,1.5,7.8,11.8
+175,07,rheinland-pfalz,07337,suedliche weinstrasse,1.7,6.2,8.8
+176,07,rheinland-pfalz,07338,rhein-pfalz-kreis,1.1,4.7,7.1
+177,07,rheinland-pfalz,07339,mainz-bingen,1.9,5.9,8.6
+178,07,rheinland-pfalz,07340,suedwestpfalz,1.1,4.7,6.1
+179,08,baden-wuerttemberg,08111,stuttgart,4.5,9.3,14.0
+180,08,baden-wuerttemberg,08115,boeblingen,1.7,4.7,7.0
+181,08,baden-wuerttemberg,08116,esslingen,1.8,5.3,7.4
+182,08,baden-wuerttemberg,08117,goeppingen,2.0,6.4,10.0
+183,08,baden-wuerttemberg,08118,ludwigsburg,1.6,4.9,7.4
+184,08,baden-wuerttemberg,08119,rems-murr-kreis,2.2,6.3,8.7
+185,08,baden-wuerttemberg,08121,heilbronn,3.7,9.6,13.9
+186,08,baden-wuerttemberg,08125,heilbronn,1.8,4.6,6.7
+187,08,baden-wuerttemberg,08126,hohenlohekreis,1.8,3.7,3.9
+188,08,baden-wuerttemberg,08127,schwaebisch hall,2.1,5.6,6.4
+189,08,baden-wuerttemberg,08128,main-tauber-kreis,1.6,4.6,7.0
+190,08,baden-wuerttemberg,08135,heidenheim,2.0,7.0,11.3
+191,08,baden-wuerttemberg,08136,ostalbkreis,1.9,5.3,7.0
+192,08,baden-wuerttemberg,08211,baden-baden,6.1,8.0,10.7
+193,08,baden-wuerttemberg,08212,karlsruhe,5.0,8.0,11.7
+194,08,baden-wuerttemberg,08215,karlsruhe,1.3,4.5,6.5
+195,08,baden-wuerttemberg,08216,rastatt,2.1,5.3,7.9
+196,08,baden-wuerttemberg,08221,heidelberg,4.1,6.1,8.9
+197,08,baden-wuerttemberg,08222,mannheim,5.5,12.5,20.2
+198,08,baden-wuerttemberg,08225,neckar-odenwald-kreis,2.3,5.8,6.3
+199,08,baden-wuerttemberg,08226,rhein-neckar-kreis,1.9,6.1,8.5
+200,08,baden-wuerttemberg,08231,pforzheim,4.3,12.4,20.8
+201,08,baden-wuerttemberg,08235,calw,1.5,4.9,6.3
+202,08,baden-wuerttemberg,08236,enzkreis,1.1,3.8,5.7
+203,08,baden-wuerttemberg,08237,freudenstadt,1.9,5.2,6.3
+204,08,baden-wuerttemberg,08311,freiburg im breisgau,5.0,9.9,14.8
+205,08,baden-wuerttemberg,08315,breisgau-hochschwarzwald,1.7,4.8,6.6
+206,08,baden-wuerttemberg,08316,emmendingen,2.1,5.2,6.7
+207,08,baden-wuerttemberg,08317,ortenaukreis,2.2,6.0,9.2
+208,08,baden-wuerttemberg,08325,rottweil,2.0,4.8,5.9
+209,08,baden-wuerttemberg,08326,schwarzwald-baar-kreis,2.2,5.5,8.2
+210,08,baden-wuerttemberg,08327,tuttlingen,2.3,5.1,7.0
+211,08,baden-wuerttemberg,08335,konstanz,2.6,6.1,9.3
+212,08,baden-wuerttemberg,08336,loerrach,2.3,5.8,7.4
+213,08,baden-wuerttemberg,08337,waldshut,1.9,4.9,6.5
+214,08,baden-wuerttemberg,08415,reutlingen,2.3,6.5,8.9
+215,08,baden-wuerttemberg,08416,tuebingen,2.0,5.1,7.3
+216,08,baden-wuerttemberg,08417,zollernalbkreis,1.1,4.7,6.7
+217,08,baden-wuerttemberg,08421,ulm,4.1,6.9,9.9
+218,08,baden-wuerttemberg,08425,alb-donau-kreis,1.3,3.7,5.4
+219,08,baden-wuerttemberg,08426,biberach,1.9,4.4,5.2
+220,08,baden-wuerttemberg,08435,bodenseekreis,2.4,5.2,6.5
+221,08,baden-wuerttemberg,08436,ravensburg,2.1,5.6,6.2
+222,08,baden-wuerttemberg,08437,sigmaringen,1.9,5.2,5.4
+223,09,freistaat bayern,09161,ingolstadt,4.1,6.7,8.5
+224,09,freistaat bayern,09162,muenchen,5.8,8.2,11.0
+225,09,freistaat bayern,09163,rosenheim,4.3,8.2,11.0
+226,09,freistaat bayern,09171,altoetting,3.4,5.6,6.5
+227,09,freistaat bayern,09172,berchtesgadener land,2.4,4.9,6.3
+228,09,freistaat bayern,09173,bad toelz-wolfratshausen,2.5,4.4,4.6
+229,09,freistaat bayern,09174,dachau,2.3,3.6,3.5
+230,09,freistaat bayern,09175,ebersberg,1.5,3.1,2.9
+231,09,freistaat bayern,09176,eichstaett,0.9,2.2,2.3
+232,09,freistaat bayern,09177,erding,1.9,3.4,3.7
+233,09,freistaat bayern,09178,freising,1.5,2.8,2.4
+234,09,freistaat bayern,09179,fuerstenfeldbruck,1.8,4.6,7.0
+235,09,freistaat bayern,09180,garmisch-partenkirchen,2.3,5.2,7.7
+236,09,freistaat bayern,09181,landsberg am lech,1.9,4.2,4.0
+237,09,freistaat bayern,09182,miesbach,2.0,3.1,3.2
+238,09,freistaat bayern,09183,muehldorf a.inn,3.0,6.3,7.0
+239,09,freistaat bayern,09184,muenchen,2.2,3.8,4.8
+240,09,freistaat bayern,09185,neuburg-schrobenhausen,1.5,3.7,3.8
+241,09,freistaat bayern,09186,pfaffenhofen a.d.ilm,1.7,2.8,2.3
+242,09,freistaat bayern,09187,rosenheim,2.5,4.0,3.8
+243,09,freistaat bayern,09188,starnberg,1.9,3.3,3.7
+244,09,freistaat bayern,09189,traunstein,2.3,4.4,4.1
+245,09,freistaat bayern,09190,weilheim-schongau,1.9,4.9,4.9
+246,09,freistaat bayern,09261,landshut,3.6,7.5,9.4
+247,09,freistaat bayern,09262,passau,3.5,9.4,12.1
+248,09,freistaat bayern,09263,straubing,6.6,11.8,12.2
+249,09,freistaat bayern,09271,deggendorf,2.5,4.8,5.5
+250,09,freistaat bayern,09272,freyung-grafenau,1.7,3.9,3.6
+251,09,freistaat bayern,09273,kelheim,1.6,3.6,3.4
+252,09,freistaat bayern,09274,landshut,1.2,3.0,3.2
+253,09,freistaat bayern,09275,passau,2.0,4.7,6.6
+254,09,freistaat bayern,09276,regen,1.6,4.9,6.3
+255,09,freistaat bayern,09277,rottal-inn,1.8,4.4,5.7
+256,09,freistaat bayern,09278,straubing-bogen,1.4,3.3,3.8
+257,09,freistaat bayern,09279,dingolfing-landau,1.6,3.3,3.4
+258,09,freistaat bayern,09361,amberg,4.3,9.9,14.1
+259,09,freistaat bayern,09362,regensburg,4.9,7.7,10.1
+260,09,freistaat bayern,09363,weiden i.d.opf.,4.5,11.3,16.8
+261,09,freistaat bayern,09371,amberg-sulzbach,1.9,4.5,4.7
+262,09,freistaat bayern,09372,cham,1.9,4.0,4.1
+263,09,freistaat bayern,09373,neumarkt i.d.opf.,1.7,3.7,3.4
+264,09,freistaat bayern,09374,neustadt a.d.waldnaab,1.7,4.8,5.6
+265,09,freistaat bayern,09375,regensburg,1.4,3.5,3.9
+266,09,freistaat bayern,09376,schwandorf,1.8,4.7,5.6
+267,09,freistaat bayern,09377,tirschenreuth,1.6,5.0,5.2
+268,09,freistaat bayern,09461,bamberg,4.0,8.1,10.5
+269,09,freistaat bayern,09462,bayreuth,4.5,9.5,12.5
+270,09,freistaat bayern,09463,coburg,2.9,10.0,14.7
+271,09,freistaat bayern,09464,hof,4.5,16.0,25.8
+272,09,freistaat bayern,09471,bamberg,1.2,3.0,3.6
+273,09,freistaat bayern,09472,bayreuth,1.2,3.4,4.6
+274,09,freistaat bayern,09473,coburg,1.3,4.9,7.5
+275,09,freistaat bayern,09474,forchheim,1.3,4.1,5.5
+276,09,freistaat bayern,09475,hof,1.6,4.7,6.5
+277,09,freistaat bayern,09476,kronach,1.3,4.5,5.7
+278,09,freistaat bayern,09477,kulmbach,1.8,5.9,6.1
+279,09,freistaat bayern,09478,lichtenfels,1.8,5.5,6.4
+280,09,freistaat bayern,09479,wunsiedel i.fichtelgebirge,1.4,7.7,12.5
+281,09,freistaat bayern,09561,ansbach,3.8,10.6,15.6
+282,09,freistaat bayern,09562,erlangen,2.8,6.8,9.4
+283,09,freistaat bayern,09563,fuerth,4.1,10.3,15.7
+284,09,freistaat bayern,09564,nuernberg,6.7,12.8,17.8
+285,09,freistaat bayern,09565,schwabach,2.6,7.1,9.6
+286,09,freistaat bayern,09571,ansbach,1.6,3.9,3.7
+287,09,freistaat bayern,09572,erlangen-hoechstadt,1.0,3.7,3.9
+288,09,freistaat bayern,09573,fuerth,1.2,3.3,4.1
+289,09,freistaat bayern,09574,nuernberger land,1.3,4.5,5.7
+290,09,freistaat bayern,09575,neustadt a.d.aisch-bad windsheim,1.6,5.1,6.7
+291,09,freistaat bayern,09576,roth,1.6,4.2,3.9
+292,09,freistaat bayern,09577,weissenburg-gunzenhausen,2.4,5.8,6.0
+293,09,freistaat bayern,09661,aschaffenburg,5.1,11.4,16.1
+294,09,freistaat bayern,09662,schweinfurt,5.7,14.4,22.1
+295,09,freistaat bayern,09663,wuerzburg,5.1,10.1,12.8
+296,09,freistaat bayern,09671,aschaffenburg,1.2,4.2,7.5
+297,09,freistaat bayern,09672,bad kissingen,2.0,5.6,6.0
+298,09,freistaat bayern,09673,rhoen-grabfeld,1.9,4.6,4.4
+299,09,freistaat bayern,09674,hassberge,1.5,4.6,5.5
+300,09,freistaat bayern,09675,kitzingen,1.6,4.5,5.6
+301,09,freistaat bayern,09676,miltenberg,1.6,4.6,6.1
+302,09,freistaat bayern,09677,main-spessart,1.2,3.8,5.2
+303,09,freistaat bayern,09678,schweinfurt,1.1,3.7,4.6
+304,09,freistaat bayern,09679,wuerzburg,1.2,3.4,4.5
+305,09,freistaat bayern,09761,augsburg,5.4,9.1,12.5
+306,09,freistaat bayern,09762,kaufbeuren,4.0,9.9,9.7
+307,09,freistaat bayern,09763,kempten (allgaeu),4.1,8.3,8.9
+308,09,freistaat bayern,09764,memmingen,2.6,6.4,7.2
+309,09,freistaat bayern,09771,aichach-friedberg,1.2,2.9,3.8
+310,09,freistaat bayern,09772,augsburg,1.4,3.7,5.0
+311,09,freistaat bayern,09773,dillingen a.d.donau,2.3,5.1,5.5
+312,09,freistaat bayern,09774,guenzburg,2.1,4.6,4.1
+313,09,freistaat bayern,09775,neu-ulm,1.9,4.5,5.8
+314,09,freistaat bayern,09776,lindau (bodensee),2.8,4.4,5.0
+315,09,freistaat bayern,09777,ostallgaeu,1.3,3.3,3.8
+316,09,freistaat bayern,09778,unterallgaeu,1.2,2.7,2.6
+317,09,freistaat bayern,09779,donau-ries,1.5,3.2,2.7
+318,09,freistaat bayern,09780,oberallgaeu,1.6,3.0,3.7
+319,10,saarland,10041,regionalverband saarbruecken,5.5,17.4,28.8
+320,10,saarland,10042,landkreis merzig-wadern,2.8,8.2,12.0
+321,10,saarland,10043,landkreis neunkirchen,3.3,13.4,23.1
+322,10,saarland,10044,landkreis saarlouis,2.9,9.6,15.3
+323,10,saarland,10045,saarpfalz-kreis,2.6,8.9,15.0
+324,10,saarland,10046,landkreis st. wendel,2.2,6.8,11.0
+325,11,berlin,11000,berlin,6.1,18.9,28.9
+326,12,brandenburg,12051,brandenburg an der havel,2.2,16.4,25.7
+327,12,brandenburg,12052,cottbus,1.7,16.1,25.8
+328,12,brandenburg,12053,frankfurt (oder),2.3,17.4,28.1
+329,12,brandenburg,12054,potsdam,2.5,10.3,14.0
+330,12,brandenburg,12060,barnim,1.3,9.8,12.9
+331,12,brandenburg,12061,dahme-spreewald,1.1,7.5,10.9
+332,12,brandenburg,12062,elbe-elster,0.8,11.4,16.3
+333,12,brandenburg,12063,havelland,1.4,8.7,11.7
+334,12,brandenburg,12064,maerkisch-oderland,0.7,9.7,13.0
+335,12,brandenburg,12065,oberhavel,1.2,8.0,11.2
+336,12,brandenburg,12066,oberspreewald-lausitz,0.9,13.1,20.0
+337,12,brandenburg,12067,oder-spree,1.2,10.7,12.7
+338,12,brandenburg,12068,ostprignitz-ruppin,1.6,12.7,16.3
+339,12,brandenburg,12069,potsdam-mittelmark,1.1,5.8,6.8
+340,12,brandenburg,12070,prignitz,1.1,14.3,22.4
+341,12,brandenburg,12071,spree-neisse,0.9,10.8,15.2
+342,12,brandenburg,12072,teltow-flaeming,1.4,8.6,12.0
+343,12,brandenburg,12073,uckermark,1.2,16.5,24.2
+344,13,mecklenburg-vorpommern,13003,"rostock, hansestadt",2.5,15.1,23.1
+345,13,mecklenburg-vorpommern,13004,"schwerin, landeshauptstadt",3.8,17.4,25.7
+346,13,mecklenburg-vorpommern,13071,mecklenburgische seenplatte,1.0,14.7,20.5
+347,13,mecklenburg-vorpommern,13072,landkreis rostock,1.0,10.2,13.1
+348,13,mecklenburg-vorpommern,13073,vorpommern-ruegen,1.1,12.7,19.1
+349,13,mecklenburg-vorpommern,13074,nordwestmecklenburg,1.8,10.4,13.7
+350,13,mecklenburg-vorpommern,13075,vorpommern-greifswald,1.3,14.0,19.9
+351,13,mecklenburg-vorpommern,13076,ludwigslust-parchim,1.4,10.2,14.1
+352,14,sachsen,14511,chemnitz,1.6,11.9,18.9
+353,14,sachsen,14521,erzgebirgskreis,0.5,7.4,9.5
+354,14,sachsen,14522,mittelsachsen,0.6,7.8,10.3
+355,14,sachsen,14523,vogtlandkreis,0.7,8.4,12.5
+356,14,sachsen,14524,zwickau,0.7,8.6,12.7
+357,14,sachsen,14612,dresden,1.7,10.0,13.7
+358,14,sachsen,14625,bautzen,0.7,8.4,10.9
+359,14,sachsen,14626,goerlitz,1.1,12.1,17.1
+360,14,sachsen,14627,meissen,0.8,8.6,11.7
+361,14,sachsen,14628,saechsische schweiz-osterzgebirge,0.7,8.0,11.5
+362,14,sachsen,14713,leipzig,2.4,13.8,21.2
+363,14,sachsen,14729,leipzig,0.8,8.7,11.8
+364,14,sachsen,14730,nordsachsen,0.8,10.4,14.7
+365,15,sachsen-anhalt,15001,dessau-rosslau,1.5,14.0,25.0
+366,15,sachsen-anhalt,15002,halle (saale),2.1,17.6,32.4
+367,15,sachsen-anhalt,15003,magdeburg,2.0,15.7,25.9
+368,15,sachsen-anhalt,15081,altmarkkreis salzwedel,1.4,10.9,14.1
+369,15,sachsen-anhalt,15082,anhalt-bitterfeld,1.0,13.0,21.1
+370,15,sachsen-anhalt,15083,boerde,1.1,9.2,12.5
+371,15,sachsen-anhalt,15084,burgenlandkreis,1.0,12.6,19.6
+372,15,sachsen-anhalt,15085,harz,1.1,10.8,14.9
+373,15,sachsen-anhalt,15086,jerichower land,0.8,10.6,15.9
+374,15,sachsen-anhalt,15087,mansfeld-suedharz,0.9,14.4,24.2
+375,15,sachsen-anhalt,15088,saalekreis,0.8,11.2,17.7
+376,15,sachsen-anhalt,15089,salzlandkreis,1.2,14.6,22.1
+377,15,sachsen-anhalt,15090,stendal,1.4,15.0,23.0
+378,15,sachsen-anhalt,15091,wittenberg,1.0,11.3,19.0
+379,16,thueringen,16051,erfurt,1.9,12.7,20.8
+380,16,thueringen,16052,gera,1.0,15.2,25.7
+381,16,thueringen,16053,jena,1.6,9.2,12.9
+382,16,thueringen,16054,suhl,0.7,8.2,13.1
+383,16,thueringen,16055,weimar,1.6,11.4,16.5
+384,16,thueringen,16056,eisenach,1.5,12.7,20.8
+385,16,thueringen,16061,eichsfeld,1.0,6.4,7.6
+386,16,thueringen,16062,nordhausen,0.9,11.5,19.3
+387,16,thueringen,16063,wartburgkreis,0.6,5.9,8.1
+388,16,thueringen,16064,unstrut-hainich-kreis,0.9,11.1,16.6
+389,16,thueringen,16065,kyffhaeuserkreis,0.9,11.8,18.1
+390,16,thueringen,16066,schmalkalden-meiningen,0.4,6.4,9.5
+391,16,thueringen,16067,gotha,0.8,8.9,14.0
+392,16,thueringen,16068,soemmerda,0.8,8.5,12.1
+393,16,thueringen,16069,hildburghausen,0.6,5.7,7.7
+394,16,thueringen,16070,ilm-kreis,1.1,9.0,13.5
+395,16,thueringen,16071,weimarer land,0.8,7.8,11.2
+396,16,thueringen,16072,sonneberg,-99.0,6.7,10.3
+397,16,thueringen,16073,saalfeld-rudolstadt,0.7,8.6,12.6
+398,16,thueringen,16074,saale-holzland-kreis,0.5,6.8,9.2
+399,16,thueringen,16075,saale-orla-kreis,0.6,7.8,11.8
+400,16,thueringen,16076,greiz,0.5,7.7,11.3
+401,16,thueringen,16077,altenburger land,0.9,12.0,20.6

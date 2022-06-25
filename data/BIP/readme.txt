@@ -1,0 +1,1 @@
+https://www-genesis.destatis.de/genesis/online#astructure

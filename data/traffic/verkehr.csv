@@ -1,0 +1,402 @@
+﻿_id,ags2,bundesland,ags5,kreis,kr_pkw_dichte
+1,01,Schleswig-Holstein,01001,"Flensburg, Stadt",433
+2,01,Schleswig-Holstein,01002,"Kiel, Landeshauptstadt",390
+3,01,Schleswig-Holstein,01003,"Lübeck, Hansestadt",415
+4,01,Schleswig-Holstein,01004,"Neumünster, Stadt",470
+5,01,Schleswig-Holstein,01051,Dithmarschen,587
+6,01,Schleswig-Holstein,01053,Herzogtum Lauenburg,565
+7,01,Schleswig-Holstein,01054,Nordfriesland,591
+8,01,Schleswig-Holstein,01055,Ostholstein,601
+9,01,Schleswig-Holstein,01056,Pinneberg,517
+10,01,Schleswig-Holstein,01057,Plön,599
+11,01,Schleswig-Holstein,01058,Rendsburg-Eckernförde,602
+12,01,Schleswig-Holstein,01059,Schleswig-Flensburg,607
+13,01,Schleswig-Holstein,01060,Segeberg,558
+14,01,Schleswig-Holstein,01061,Steinburg,588
+15,01,Schleswig-Holstein,01062,Stormarn,560
+16,02,Hamburg,02000,Hamburg,352
+17,03,Niedersachsen,03101,Braunschweig,444
+18,03,Niedersachsen,03102,Salzgitter,507
+19,03,Niedersachsen,03103,Wolfsburg,453
+20,03,Niedersachsen,03151,Gifhorn,588
+21,03,Niedersachsen,03153,Goslar,550
+22,03,Niedersachsen,03154,Helmstedt,584
+23,03,Niedersachsen,03155,Northeim,622
+24,03,Niedersachsen,03157,Peine,605
+25,03,Niedersachsen,03158,Wolfenbüttel,600
+26,03,Niedersachsen,03159,Göttingen,525
+27,03,Niedersachsen,03241,Hannover,454
+28,03,Niedersachsen,03251,Diepholz,609
+29,03,Niedersachsen,03252,Hameln-Pyrmont,594
+30,03,Niedersachsen,03254,Hildesheim,554
+31,03,Niedersachsen,03255,Holzminden,608
+32,03,Niedersachsen,03256,Nienburg/Weser,598
+33,03,Niedersachsen,03257,Schaumburg,616
+34,03,Niedersachsen,03351,Celle,578
+35,03,Niedersachsen,03352,Cuxhaven,613
+36,03,Niedersachsen,03353,Harburg,610
+37,03,Niedersachsen,03354,Lüchow-Dannenberg,612
+38,03,Niedersachsen,03355,Lüneburg,520
+39,03,Niedersachsen,03356,Osterholz,615
+40,03,Niedersachsen,03357,Rotenburg (Wümme),612
+41,03,Niedersachsen,03358,Heidekreis,598
+42,03,Niedersachsen,03359,Stade,579
+43,03,Niedersachsen,03360,Uelzen,588
+44,03,Niedersachsen,03361,Verden,589
+45,03,Niedersachsen,03401,Delmenhorst,506
+46,03,Niedersachsen,03402,Emden,462
+47,03,Niedersachsen,03403,"Oldenburg, Stadt",464
+48,03,Niedersachsen,03404,"Osnabrück, Stadt",443
+49,03,Niedersachsen,03405,Wilhelmshaven,494
+50,03,Niedersachsen,03451,Ammerland,601
+51,03,Niedersachsen,03452,Aurich,581
+52,03,Niedersachsen,03453,Cloppenburg,561
+53,03,Niedersachsen,03454,Emsland,571
+54,03,Niedersachsen,03455,Friesland,638
+55,03,Niedersachsen,03456,Grafschaft Bentheim,570
+56,03,Niedersachsen,03457,Leer,581
+57,03,Niedersachsen,03458,"Oldenburg, Kreis",601
+58,03,Niedersachsen,03459,"Osnabrück, Kreis",608
+59,03,Niedersachsen,03460,Vechta,563
+60,03,Niedersachsen,03461,Wesermarsch,577
+61,03,Niedersachsen,03462,Wittmund,613
+62,04,Bremen,04011,Bremen,375
+63,04,Bremen,04012,Bremerhaven,404
+64,05,Nordrhein-Westfalen,05111,Düsseldorf,375
+65,05,Nordrhein-Westfalen,05112,Duisburg,432
+66,05,Nordrhein-Westfalen,05113,Essen,439
+67,05,Nordrhein-Westfalen,05114,Krefeld,474
+68,05,Nordrhein-Westfalen,05116,Mönchengladbach,486
+69,05,Nordrhein-Westfalen,05117,Mülheim an der Ruhr,504
+70,05,Nordrhein-Westfalen,05119,Oberhausen,496
+71,05,Nordrhein-Westfalen,05120,Remscheid,506
+72,05,Nordrhein-Westfalen,05122,Solingen,525
+73,05,Nordrhein-Westfalen,05124,Wuppertal,441
+74,05,Nordrhein-Westfalen,05154,Kleve,586
+75,05,Nordrhein-Westfalen,05158,Mettmann,540
+76,05,Nordrhein-Westfalen,05162,Rhein-Kreis Neuss,551
+77,05,Nordrhein-Westfalen,05166,Viersen,587
+78,05,Nordrhein-Westfalen,05170,Wesel,591
+79,05,Nordrhein-Westfalen,05314,Bonn,409
+80,05,Nordrhein-Westfalen,05315,Köln,368
+81,05,Nordrhein-Westfalen,05316,Leverkusen,488
+82,05,Nordrhein-Westfalen,05334,Aachen,479
+83,05,Nordrhein-Westfalen,05358,Düren,582
+84,05,Nordrhein-Westfalen,05362,Rhein-Erft-Kreis,554
+85,05,Nordrhein-Westfalen,05366,Euskirchen,617
+86,05,Nordrhein-Westfalen,05370,Heinsberg,594
+87,05,Nordrhein-Westfalen,05374,Oberbergischer Kreis,604
+88,05,Nordrhein-Westfalen,05378,Rheinisch-Bergischer Kreis,594
+89,05,Nordrhein-Westfalen,05382,Rhein-Sieg-Kreis,575
+90,05,Nordrhein-Westfalen,05512,Bottrop,552
+91,05,Nordrhein-Westfalen,05513,Gelsenkirchen,437
+92,05,Nordrhein-Westfalen,05515,Münster,399
+93,05,Nordrhein-Westfalen,05554,Borken,552
+94,05,Nordrhein-Westfalen,05558,Coesfeld,592
+95,05,Nordrhein-Westfalen,05562,Recklinghausen,552
+96,05,Nordrhein-Westfalen,05566,Steinfurt,566
+97,05,Nordrhein-Westfalen,05570,Warendorf,573
+98,05,Nordrhein-Westfalen,05711,Bielefeld,459
+99,05,Nordrhein-Westfalen,05754,Gütersloh,575
+100,05,Nordrhein-Westfalen,05758,Herford,600
+101,05,Nordrhein-Westfalen,05762,Höxter,608
+102,05,Nordrhein-Westfalen,05766,Lippe,575
+103,05,Nordrhein-Westfalen,05770,Minden-Lübbecke,606
+104,05,Nordrhein-Westfalen,05774,Paderborn,548
+105,05,Nordrhein-Westfalen,05911,Bochum,471
+106,05,Nordrhein-Westfalen,05913,Dortmund,456
+107,05,Nordrhein-Westfalen,05914,Hagen,484
+108,05,Nordrhein-Westfalen,05915,Hamm,508
+109,05,Nordrhein-Westfalen,05916,Herne,467
+110,05,Nordrhein-Westfalen,05954,Ennepe-Ruhr-Kreis,569
+111,05,Nordrhein-Westfalen,05958,Hochsauerlandkreis,596
+112,05,Nordrhein-Westfalen,05962,Märkischer Kreis,577
+113,05,Nordrhein-Westfalen,05966,Olpe,613
+114,05,Nordrhein-Westfalen,05970,Siegen-Wittgenstein,571
+115,05,Nordrhein-Westfalen,05974,Soest,595
+116,05,Nordrhein-Westfalen,05978,Unna,567
+117,06,Hessen,06411,Kreisfreie Stadt Darmstadt,379
+118,06,Hessen,06412,Kreisfreie Stadt Frankfurt am Main,324
+119,06,Hessen,06413,Kreisfreie Stadt Offenbach am Main,373
+120,06,Hessen,06414,Landeshauptstadt Wiesbaden,439
+121,06,Hessen,06431,Bergstraße,598
+122,06,Hessen,06432,Darmstadt-Dieburg,587
+123,06,Hessen,06433,Groß-Gerau,508
+124,06,Hessen,06434,Hochtaunus,557
+125,06,Hessen,06435,Main-Kinzig,574
+126,06,Hessen,06436,Main-Taunus,564
+127,06,Hessen,06437,Odenwaldkreis,604
+128,06,Hessen,06438,Offenbach,540
+129,06,Hessen,06439,Rheingau-Taunus,616
+130,06,Hessen,06440,Wetterau,582
+131,06,Hessen,06531,Gießen,526
+132,06,Hessen,06532,Lahn-Dill,601
+133,06,Hessen,06533,Limburg-Weilburg,606
+134,06,Hessen,06534,Marburg-Biedenkopf,544
+135,06,Hessen,06535,Vogelsberg,648
+136,06,Hessen,06611,Kreisfreie Stadt Kassel,388
+137,06,Hessen,06631,Fulda,594
+138,06,Hessen,06632,Hersfeld-Rotenburg,618
+139,06,Hessen,06633,Kassel,603
+140,06,Hessen,06634,Schwalm-Eder,635
+141,06,Hessen,06635,Waldeck-Frankenberg,628
+142,06,Hessen,06636,Werra-Meißner,593
+143,07,Rheinland-Pfalz,07111,Stadt Koblenz,460
+144,07,Rheinland-Pfalz,07131,Ahrweiler,616
+145,07,Rheinland-Pfalz,07132,Altenkirchen (Ww),607
+146,07,Rheinland-Pfalz,07133,Bad Kreuznach,591
+147,07,Rheinland-Pfalz,07134,Birkenfeld,604
+148,07,Rheinland-Pfalz,07135,Cochem-Zell,644
+149,07,Rheinland-Pfalz,07137,Mayen-Koblenz,605
+150,07,Rheinland-Pfalz,07138,Neuwied,605
+151,07,Rheinland-Pfalz,07140,Rhein-Hunsrück-Kreis,634
+152,07,Rheinland-Pfalz,07141,Rhein-Lahn-Kreis,619
+153,07,Rheinland-Pfalz,07143,Westerwaldkreis,627
+154,07,Rheinland-Pfalz,07211,Stadt Trier,422
+155,07,Rheinland-Pfalz,07231,Bernkastel-Wittlich,626
+156,07,Rheinland-Pfalz,07232,Eifelkreis Bitburg-Prüm,633
+157,07,Rheinland-Pfalz,07233,Vulkaneifel,646
+158,07,Rheinland-Pfalz,07235,Trier-Saarburg,641
+159,07,Rheinland-Pfalz,07311,Stadt Frankenthal (Pfalz),501
+160,07,Rheinland-Pfalz,07312,Stadt Kaiserslautern,440
+161,07,Rheinland-Pfalz,07313,Stadt Landau in der Pfalz,516
+162,07,Rheinland-Pfalz,07314,Stadt Ludwigshafen a. Rh.,428
+163,07,Rheinland-Pfalz,07315,Stadt Mainz,388
+164,07,Rheinland-Pfalz,07316,Stadt Neustadt a.d. W.,555
+165,07,Rheinland-Pfalz,07317,Stadt Pirmasens,507
+166,07,Rheinland-Pfalz,07318,Stadt Speyer,515
+167,07,Rheinland-Pfalz,07319,Stadt Worms,502
+168,07,Rheinland-Pfalz,07320,Stadt Zweibrücken,572
+169,07,Rheinland-Pfalz,07331,Alzey-Worms,631
+170,07,Rheinland-Pfalz,07332,Bad Dürkheim,650
+171,07,Rheinland-Pfalz,07333,Donnersbergkreis,637
+172,07,Rheinland-Pfalz,07334,Germersheim,603
+173,07,Rheinland-Pfalz,07335,Kaiserslautern,620
+174,07,Rheinland-Pfalz,07336,Kusel,659
+175,07,Rheinland-Pfalz,07337,Südliche Weinstraße,656
+176,07,Rheinland-Pfalz,07338,Rhein-Pfalz-Kreis,629
+177,07,Rheinland-Pfalz,07339,Mainz-Bingen,599
+178,07,Rheinland-Pfalz,07340,Südwestpfalz,682
+179,08,Baden-Württemberg,08111,Stuttgart,358
+180,08,Baden-Württemberg,08115,Böblingen,558
+181,08,Baden-Württemberg,08116,Esslingen,552
+182,08,Baden-Württemberg,08117,Göppingen,586
+183,08,Baden-Württemberg,08118,Ludwigsburg,559
+184,08,Baden-Württemberg,08119,Rems-Murr-Kreis,563
+185,08,Baden-Württemberg,08121,"Heilbronn, Stadt",466
+186,08,Baden-Württemberg,08125,"Heilbronn, Kreis",606
+187,08,Baden-Württemberg,08126,Hohenlohekreis,627
+188,08,Baden-Württemberg,08127,Schwäbisch Hall,611
+189,08,Baden-Württemberg,08128,Main-Tauber-Kreis,623
+190,08,Baden-Württemberg,08135,Heidenheim,588
+191,08,Baden-Württemberg,08136,Ostalbkreis,595
+192,08,Baden-Württemberg,08211,Baden-Baden,534
+193,08,Baden-Württemberg,08212,"Karlsruhe, Stadt",372
+194,08,Baden-Württemberg,08215,"Karlsruhe, Kreis",580
+195,08,Baden-Württemberg,08216,Rastatt,605
+196,08,Baden-Württemberg,08221,Heidelberg,314
+197,08,Baden-Württemberg,08222,Mannheim,405
+198,08,Baden-Württemberg,08225,Neckar-Odenwald-Kreis,611
+199,08,Baden-Württemberg,08226,Rhein-Neckar-Kreis,564
+200,08,Baden-Württemberg,08231,Pforzheim,435
+201,08,Baden-Württemberg,08235,Calw,605
+202,08,Baden-Württemberg,08236,Enzkreis,612
+203,08,Baden-Württemberg,08237,Freudenstadt,598
+204,08,Baden-Württemberg,08311,Freiburg im Breisgau,339
+205,08,Baden-Württemberg,08315,Breisgau-Hochschwarzwald,556
+206,08,Baden-Württemberg,08316,Emmendingen,568
+207,08,Baden-Württemberg,08317,Ortenaukreis,578
+208,08,Baden-Württemberg,08325,Rottweil,610
+209,08,Baden-Württemberg,08326,Schwarzwald-Baar-Kreis,562
+210,08,Baden-Württemberg,08327,Tuttlingen,567
+211,08,Baden-Württemberg,08335,Konstanz,519
+212,08,Baden-Württemberg,08336,Lörrach,559
+213,08,Baden-Württemberg,08337,Waldshut,588
+214,08,Baden-Württemberg,08415,Reutlingen,567
+215,08,Baden-Württemberg,08416,Tübingen,498
+216,08,Baden-Württemberg,08417,Zollernalbkreis,622
+217,08,Baden-Württemberg,08421,Ulm,433
+218,08,Baden-Württemberg,08425,Alb-Donau-Kreis,613
+219,08,Baden-Württemberg,08426,Biberach,609
+220,08,Baden-Württemberg,08435,Bodenseekreis,583
+221,08,Baden-Württemberg,08436,Ravensburg,581
+222,08,Baden-Württemberg,08437,Sigmaringen,616
+223,09,Freistaat Bayern,09161,Ingolstadt,474
+224,09,Freistaat Bayern,09162,"München, Landeshauptstadt",351
+225,09,Freistaat Bayern,09163,"Rosenheim, Stadt",475
+226,09,Freistaat Bayern,09171,Altötting,596
+227,09,Freistaat Bayern,09172,Berchtesgadener Land,565
+228,09,Freistaat Bayern,09173,Bad Tölz-Wolfratshausen,575
+229,09,Freistaat Bayern,09174,Dachau,553
+230,09,Freistaat Bayern,09175,Ebersberg,541
+231,09,Freistaat Bayern,09176,Eichstätt,610
+232,09,Freistaat Bayern,09177,Erding,604
+233,09,Freistaat Bayern,09178,Freising,552
+234,09,Freistaat Bayern,09179,Fürstenfeldbruck,521
+235,09,Freistaat Bayern,09180,Garmisch-Partenkirchen,526
+236,09,Freistaat Bayern,09181,Landsberg am Lech,617
+237,09,Freistaat Bayern,09182,Miesbach,594
+238,09,Freistaat Bayern,09183,Mühldorf a.Inn,600
+239,09,Freistaat Bayern,09184,"München, Kreis",499
+240,09,Freistaat Bayern,09185,Neuburg-Schrobenhausen,623
+241,09,Freistaat Bayern,09186,Pfaffenhofen a.d.Ilm,615
+242,09,Freistaat Bayern,09187,"Rosenheim, Kreis",598
+243,09,Freistaat Bayern,09188,Starnberg,561
+244,09,Freistaat Bayern,09189,Traunstein,614
+245,09,Freistaat Bayern,09190,Weilheim-Schongau,607
+246,09,Freistaat Bayern,09261,"Landshut, Stadt",451
+247,09,Freistaat Bayern,09262,"Passau, Stadt",454
+248,09,Freistaat Bayern,09263,Straubing,497
+249,09,Freistaat Bayern,09271,Deggendorf,601
+250,09,Freistaat Bayern,09272,Freyung-Grafenau,630
+251,09,Freistaat Bayern,09273,Kelheim,615
+252,09,Freistaat Bayern,09274,"Landshut, Kreis",638
+253,09,Freistaat Bayern,09275,"Passau, Kreis",624
+254,09,Freistaat Bayern,09276,Regen,596
+255,09,Freistaat Bayern,09277,Rottal-Inn,615
+256,09,Freistaat Bayern,09278,Straubing-Bogen,648
+257,09,Freistaat Bayern,09279,Dingolfing-Landau,635
+258,09,Freistaat Bayern,09361,Amberg,528
+259,09,Freistaat Bayern,09362,"Regensburg, Stadt",417
+260,09,Freistaat Bayern,09363,Weiden i.d.OPf.,531
+261,09,Freistaat Bayern,09371,Amberg-Sulzbach,642
+262,09,Freistaat Bayern,09372,Cham,642
+263,09,Freistaat Bayern,09373,Neumarkt i.d.OPf.,595
+264,09,Freistaat Bayern,09374,Neustadt a.d.Waldnaab,651
+265,09,Freistaat Bayern,09375,"Regensburg, Kreis",614
+266,09,Freistaat Bayern,09376,Schwandorf,627
+267,09,Freistaat Bayern,09377,Tirschenreuth,634
+268,09,Freistaat Bayern,09461,"Bamberg, Stadt",434
+269,09,Freistaat Bayern,09462,"Bayreuth, Stadt",436
+270,09,Freistaat Bayern,09463,"Coburg, Stadt",509
+271,09,Freistaat Bayern,09464,"Hof, Stadt",485
+272,09,Freistaat Bayern,09471,"Bamberg, Kreis",652
+273,09,Freistaat Bayern,09472,"Bayreuth, Kreis",655
+274,09,Freistaat Bayern,09473,"Coburg, Kreis",635
+275,09,Freistaat Bayern,09474,Forchheim,638
+276,09,Freistaat Bayern,09475,"Hof, Kreis",616
+277,09,Freistaat Bayern,09476,Kronach,624
+278,09,Freistaat Bayern,09477,Kulmbach,629
+279,09,Freistaat Bayern,09478,Lichtenfels,619
+280,09,Freistaat Bayern,09479,Wunsiedel i.Fichtelgebirge,596
+281,09,Freistaat Bayern,09561,"Ansbach, Stadt",529
+282,09,Freistaat Bayern,09562,Erlangen,439
+283,09,Freistaat Bayern,09563,"Fürth, Stadt",446
+284,09,Freistaat Bayern,09564,Nürnberg,405
+285,09,Freistaat Bayern,09565,Schwabach,570
+286,09,Freistaat Bayern,09571,"Ansbach, Kreis",641
+287,09,Freistaat Bayern,09572,Erlangen-Höchstadt,616
+288,09,Freistaat Bayern,09573,"Fürth, Kreis",624
+289,09,Freistaat Bayern,09574,Nürnberger Land,597
+290,09,Freistaat Bayern,09575,Neustadt a.d.Aisch-Bad Windsheim,630
+291,09,Freistaat Bayern,09576,Roth,630
+292,09,Freistaat Bayern,09577,Weißenburg-Gunzenhausen,612
+293,09,Freistaat Bayern,09661,"Aschaffenburg, Stadt",504
+294,09,Freistaat Bayern,09662,"Schweinfurt, Stadt",451
+295,09,Freistaat Bayern,09663,"Würzburg, Stadt",418
+296,09,Freistaat Bayern,09671,"Aschaffenburg, Kreis",624
+297,09,Freistaat Bayern,09672,Bad Kissingen,636
+298,09,Freistaat Bayern,09673,Rhön-Grabfeld,632
+299,09,Freistaat Bayern,09674,Haßberge,651
+300,09,Freistaat Bayern,09675,Kitzingen,628
+301,09,Freistaat Bayern,09676,Miltenberg,608
+302,09,Freistaat Bayern,09677,Main-Spessart,635
+303,09,Freistaat Bayern,09678,"Schweinfurt, Kreis",657
+304,09,Freistaat Bayern,09679,"Würzburg, Kreis",613
+305,09,Freistaat Bayern,09761,"Augsburg, Stadt",404
+306,09,Freistaat Bayern,09762,Kaufbeuren,515
+307,09,Freistaat Bayern,09763,Kempten (Allgäu),486
+308,09,Freistaat Bayern,09764,Memmingen,517
+309,09,Freistaat Bayern,09771,Aichach-Friedberg,602
+310,09,Freistaat Bayern,09772,"Augsburg, Kreis",608
+311,09,Freistaat Bayern,09773,Dillingen a.d.Donau,635
+312,09,Freistaat Bayern,09774,Günzburg,601
+313,09,Freistaat Bayern,09775,Neu-Ulm,576
+314,09,Freistaat Bayern,09776,Lindau (Bodensee),580
+315,09,Freistaat Bayern,09777,Ostallgäu,604
+316,09,Freistaat Bayern,09778,Unterallgäu,635
+317,09,Freistaat Bayern,09779,Donau-Ries,633
+318,09,Freistaat Bayern,09780,Oberallgäu,597
+319,10,Saarland,10041,Regionalverband Saarbrücken,529
+320,10,Saarland,10042,Landkreis Merzig-Wadern,657
+321,10,Saarland,10043,Landkreis Neunkirchen,618
+322,10,Saarland,10044,Landkreis Saarlouis,646
+323,10,Saarland,10045,Saarpfalz-Kreis,637
+324,10,Saarland,10046,Landkreis St. Wendel,672
+325,11,Berlin,11000,Berlin,291
+326,12,Brandenburg,12051,Brandenburg an der Havel,438
+327,12,Brandenburg,12052,Cottbus,438
+328,12,Brandenburg,12053,Frankfurt (Oder),441
+329,12,Brandenburg,12054,Potsdam,379
+330,12,Brandenburg,12060,Barnim,548
+331,12,Brandenburg,12061,Dahme-Spreewald,565
+332,12,Brandenburg,12062,Elbe-Elster,585
+333,12,Brandenburg,12063,Havelland,546
+334,12,Brandenburg,12064,Märkisch-Oderland,564
+335,12,Brandenburg,12065,Oberhavel,551
+336,12,Brandenburg,12066,Oberspreewald-Lausitz,553
+337,12,Brandenburg,12067,Oder-Spree,564
+338,12,Brandenburg,12068,Ostprignitz-Ruppin,541
+339,12,Brandenburg,12069,Potsdam-Mittelmark,559
+340,12,Brandenburg,12070,Prignitz,545
+341,12,Brandenburg,12071,Spree-Neiße,586
+342,12,Brandenburg,12072,Teltow-Fläming,558
+343,12,Brandenburg,12073,Uckermark,535
+344,13,Mecklenburg-Vorpommern,13003,"Rostock, Hansestadt",373
+345,13,Mecklenburg-Vorpommern,13004,"Schwerin, Landeshauptstadt",405
+346,13,Mecklenburg-Vorpommern,13071,Mecklenburgische Seenplatte,528
+347,13,Mecklenburg-Vorpommern,13072,Landkreis Rostock,543
+348,13,Mecklenburg-Vorpommern,13073,Vorpommern-Rügen,510
+349,13,Mecklenburg-Vorpommern,13074,Nordwestmecklenburg,544
+350,13,Mecklenburg-Vorpommern,13075,Vorpommern-Greifswald,503
+351,13,Mecklenburg-Vorpommern,13076,Ludwigslust-Parchim,575
+352,14,Sachsen,14511,Chemnitz,446
+353,14,Sachsen,14521,Erzgebirgskreis,557
+354,14,Sachsen,14522,Mittelsachsen,542
+355,14,Sachsen,14523,Vogtlandkreis,551
+356,14,Sachsen,14524,Zwickau,539
+357,14,Sachsen,14612,Dresden,357
+358,14,Sachsen,14625,Bautzen,556
+359,14,Sachsen,14626,Görlitz,521
+360,14,Sachsen,14627,Meißen,527
+361,14,Sachsen,14628,Sächsische Schweiz-Osterzgebirge,532
+362,14,Sachsen,14713,"Leipzig, Stadt",346
+363,14,Sachsen,14729,"Leipzig, Kreis",548
+364,14,Sachsen,14730,Nordsachsen,543
+365,15,Sachsen-Anhalt,15001,Dessau-Roßlau,481
+366,15,Sachsen-Anhalt,15002,Halle (Saale),355
+367,15,Sachsen-Anhalt,15003,Magdeburg,414
+368,15,Sachsen-Anhalt,15081,Altmarkkreis Salzwedel,570
+369,15,Sachsen-Anhalt,15082,Anhalt-Bitterfeld,541
+370,15,Sachsen-Anhalt,15083,Börde,581
+371,15,Sachsen-Anhalt,15084,Burgenlandkreis,530
+372,15,Sachsen-Anhalt,15085,Harz,539
+373,15,Sachsen-Anhalt,15086,Jerichower Land,565
+374,15,Sachsen-Anhalt,15087,Mansfeld-Südharz,547
+375,15,Sachsen-Anhalt,15088,Saalekreis,573
+376,15,Sachsen-Anhalt,15089,Salzlandkreis,519
+377,15,Sachsen-Anhalt,15090,Stendal,521
+378,15,Sachsen-Anhalt,15091,Wittenberg,561
+379,16,Thüringen,16051,Erfurt,403
+380,16,Thüringen,16052,Gera,450
+381,16,Thüringen,16053,Jena,360
+382,16,Thüringen,16054,Suhl,497
+383,16,Thüringen,16055,Weimar,403
+384,16,Thüringen,16056,Eisenach,446
+385,16,Thüringen,16061,Eichsfeld,570
+386,16,Thüringen,16062,Nordhausen,527
+387,16,Thüringen,16063,Wartburgkreis,565
+388,16,Thüringen,16064,Unstrut-Hainich-Kreis,522
+389,16,Thüringen,16065,Kyffhäuserkreis,563
+390,16,Thüringen,16066,Schmalkalden-Meiningen,567
+391,16,Thüringen,16067,Gotha,523
+392,16,Thüringen,16068,Sömmerda,553
+393,16,Thüringen,16069,Hildburghausen,595
+394,16,Thüringen,16070,Ilm-Kreis,507
+395,16,Thüringen,16071,Weimarer Land,552
+396,16,Thüringen,16072,Sonneberg,560
+397,16,Thüringen,16073,Saalfeld-Rudolstadt,561
+398,16,Thüringen,16074,Saale-Holzland-Kreis,567
+399,16,Thüringen,16075,Saale-Orla-Kreis,579
+400,16,Thüringen,16076,Greiz,576
+401,16,Thüringen,16077,Altenburger Land,534

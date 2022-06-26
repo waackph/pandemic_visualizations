@@ -1,3 +1,4 @@
+# Pandemic data visualization
 ## Questions
 
 1. What influence had the dominant covid variant on the number of covid cases?
@@ -39,3 +40,10 @@ The anti discrimination law (AGG) has [multiple laws](http://www.agg-ratgeber.de
     - Create by template
     - add html, css, JS, D3 for general visualization capability
     - recreate covid case visualizations using D3
+
+# D3.js resources
+
+- https://d3-graph-gallery.com/custom.html
+- https://github.com/d3/d3/blob/main/API.md
+- https://d3js.org/
+- https://observablehq.com/@d3/gallery

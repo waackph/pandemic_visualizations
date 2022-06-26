@@ -1,1 +1,77 @@
-Work in progress...
+<!doctype html>
+
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Corona Pandemic visualization examples</title>
+
+        <script src="https://d3js.org/d3.v4.min.js"></script>
+        
+        <link rel="stylesheet" href="style.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    </head>
+    <body>
+        <div class="container">
+
+            <div class="row">
+                <div class="col">
+                    <h1>Corona pandemic visualization examples</h1>
+
+                    <h2>How many covid cases are there in relation to overall reported tests?</h2>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col">
+                    <div id="positive_cases" class="d-flex justify-content-center plot"></div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col">
+                    <h2>What influence had the dominant covid variant on the number of covid cases?</h2>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col">
+                    <select id="selectButton"></select>
+                </div>
+                <div class="col">
+                    <div id="positive_cases_variant_groups" class="d-flex justify-content-center plot"></div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col">
+                    <div id="hospitalization_positive_ratio" class="d-flex justify-content-center plot"></div>
+                </div>
+            </div>
+
+            <!-- TODOS:
+                - Add plot to see BIP before and after start of pandemic
+             -->
+            <!-- <div class="row">
+                <div class="col">
+                    <h2>How did the pandemic influence German society regarding specific indicators?</h2>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col">
+                    <div id="pandemic_on_bip" class="d-flex justify-content-center plot"></div>
+                </div>
+            </div> -->
+
+        </div>
+
+        <script src="js/general_plot.js"></script>
+        <script src="js/vis_positive_helpers.js"></script>
+        <script src="js/vis_positive_cases.js"></script>
+        <script src="js/vis_positive_cases_variant_groups.js"></script>
+        <script src="js/vis_hosp_positive_ratio.js"></script>
+
+    </body>
+</html>

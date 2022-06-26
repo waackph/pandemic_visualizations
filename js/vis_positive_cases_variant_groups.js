@@ -26,14 +26,16 @@ d3.csv(base_url + "data/covid_tests/covid_tests_preprocessed.csv",
 
         // data.sort(function(a,b) { return +a.week - +b.week })
 
-        xFeature = ["date", "week_date"];
+        menuText = ["Calender week with years 2020-2022", "Calender week ignoring year for comparing"]
+        xFeature = [{"date": "Calender week with years 2020-2022"}, {"week_date": "Calender week ignoring year for comparing"}];
+        console.log(Object.keys(xFeature[0])[0]);
         d3.select("#selectButton")
             .selectAll('myOptions')
             .data(xFeature)
             .enter()
             .append('option')
-            .text(function (d) { return d; }) // text showed in the menu
-            .attr("value", function (d) { return d; }); // corresponding value returned by the button
+            .text(function (d) { return d[Object.keys(d)[0]]; }) // text showed in the menu
+            .attr("value", function (d) { return Object.keys(d)[0]; }); // corresponding value returned by the button
 
         var x = AddXAxis(svg2, data, "date");
         var y = AddYAxis(svg2, data, "amount_positive");

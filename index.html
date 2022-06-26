@@ -19,7 +19,34 @@
                 <div class="col">
                     <h1>Corona pandemic visualization examples</h1>
 
+                    <div class="col m-4">
+                        <p>
+                            This small exploratory data visualization project is only for experimenting with different data sets
+                            and trying out different forms of data visualization and interactive features.
+                            The plots are drawn with the javascript library <a href="https://d3js.org/">D3.js</a> and the styling is made using <a href="https://getbootstrap.com/">Bootstrap</a>.
+                            The data analysis addessses the question of if and how the change of the dominant covid-19 variant can be observed in the amount of covid-19 infections in Germany.
+                            The data set this analysis is based on is a processed version of the RKI data set of <a href="https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Testzahl.html">SARS-CoV-2-Testzahlen</a>
+                            and the <a href="https://www.corona-daten-deutschland.de/dataset/hospitalisierung#">Hospitalization</a>.
+                            The dominant variant for this analysis is simply defined by the SARS-CoV-2 variant that is responsible for the most covid-19 infections. The information is derived from a <a href="https://www1.wdr.de/nachrichten/corona-virus-varianten-ueberblick-100.html">visualization</a> of a WDR article.
+                        </p>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col">
                     <h2>How many covid cases are there in relation to overall reported tests?</h2>
+
+                    <div class="col m-4">
+                        <p>
+                            At first we are going to look into the proportion of positive cases in relation to overall tests carried out.
+                            Generally, we see the summer valleys for 2020 and 2021. People are more outside, hence there is less risk for infections.
+                            Moreover, there are the impacts of the anit-corona measures such as the lockdown reducing the infections. 
+                            Noticeable is also the big increase of positive tests starting latest with the year 2022.
+                        </p>
+                    </div>
+
                 </div>
             </div>
 
@@ -32,15 +59,47 @@
             <div class="row">
                 <div class="col">
                     <h2>What influence had the dominant covid variant on the number of covid cases?</h2>
+
+                    <div class="col m-4">
+                        <p>
+                            Differentiating the time frames a variant (Original, Alpha. Delta, Omikron) is dominant
+                            shows especially the early increase of positive tests in the second half of 2021 (Delta)
+                            and the strong increase due to Omikron in 2022. Comparing the progression of positive cases
+                            in calender weeks, it is noticeable how the development is relatively similar for the seasons 
+                            regarding the Original, Alpha and Delta variant. 
+                            While Omikron on the other hand, the positive tests increase and are generally way higher
+                            even at the beginning of summer. This may be partly explained by the less strict anti-corona measures in Germany.
+                        </p>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-4">
+                    <select class="form-select" id="selectButton"></select>
+                </div>
+                <div class="col">
+                    <div id="positive_cases_variant_groups" class="d-flex justify-content-center plot"></div>
                 </div>
             </div>
 
             <div class="row">
                 <div class="col">
-                    <select id="selectButton"></select>
-                </div>
-                <div class="col">
-                    <div id="positive_cases_variant_groups" class="d-flex justify-content-center plot"></div>
+                    <h2>What influence had the dominant covid variant on the number of hospitalization?</h2>
+
+                    <div class="col m-4">
+                        <p>
+                            In comparison to the positive cases it is most noticeable that in the time when the Omikron variant was dominant
+                            the most positive cases are present, but at the same time there are way fewer cases of hospizalization in relation to the positive cases.
+                            Notice, though, that the amount of tests carried out likely explains part of the big deviation. It can be also seen in the original form of covid-19.
+                            Here, at the beginning not so many tests where carried out, the reporting was not as well, 
+                            while maybe the reporting of hospitalization has been better right from the start, because it is an information reported more regularly.
+                            But still, also the length of hospital visit related to the covid-19 infection may take part in the deviation. 
+                            Hence, the Omikron variant is obviously dangerous because of the infectivity, but does not so often lead to a hospitalization.
+                        </p>
+                    </div>
+
                 </div>
             </div>
 

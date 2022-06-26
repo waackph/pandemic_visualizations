@@ -44,7 +44,7 @@ function AddYAxis(svgElem, data, col) {
         .attr("transform", "rotate(-90)")
         .attr("y", -margin.left + 20)
         .attr("x", -margin.top)
-        .text("Proportion of positive covid tests");
+        .text("Proportion of overall positive covid tests");
 
     return y;
     }

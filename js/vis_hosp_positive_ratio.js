@@ -9,7 +9,7 @@ var svg3 = d3.select("#hospitalization_positive_ratio")
             "translate(" + margin.left + "," + margin.top + ")");
 
 // load the data set and plot it
-d3.csv("http://localhost:8000/data/covid_tests/hosp_positive_preprocessed.csv", 
+d3.csv(base_url + "data/covid_tests/hosp_positive_preprocessed.csv", 
 
     // format variables
     function(d){

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="30mm"
+   height="24mm"
+   viewBox="0 0 30 24"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="pw_logo.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="29.273165"
+     inkscape:cy="41.051669"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-text-baseline="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1031"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-273)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.89685822px;line-height:1.25;font-family:Gayathri;-inkscape-font-specification:'Gayathri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#916f6f;fill-opacity:1;stroke:none;stroke-width:0.74742067;"
+       x="14.95025"
+       y="295.15735"
+       id="text3715"><tspan
+         sodipodi:role="line"
+         id="tspan3713"
+         x="14.95025"
+         y="295.15735"
+         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:29.89685822px;line-height:1;font-family:Gayathri;-inkscape-font-specification:'Gayathri Thin';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.74742067;letter-spacing:0px;fill:#916f6f;">W</tspan></text>
+    <rect
+       style="fill:#a0892c;fill-opacity:1;stroke:none;stroke-width:0.80719483;stroke-opacity:1"
+       id="rect3719-2"
+       width="3.7797618"
+       height="3.7797618"
+       x="7.4177828"
+       y="292.36981"
+       ry="1.8898809" />
+    <rect
+       style="fill:#a0892c;fill-opacity:1;stroke:none;stroke-width:0.80719483;stroke-opacity:1"
+       id="rect3719"
+       width="3.7797618"
+       height="3.7797618"
+       x="0.8504464"
+       y="273.56549"
+       ry="1.8898809" />
+    <rect
+       style="fill:#a0892c;fill-opacity:1;stroke:none;stroke-width:0.80719483;stroke-opacity:1"
+       id="rect3719-5"
+       width="3.7797618"
+       height="3.7797618"
+       x="13.323661"
+       y="273.56525"
+       ry="1.8898809" />
+    <rect
+       style="fill:#a0892c;fill-opacity:1;stroke:none;stroke-width:0.80719483;stroke-opacity:1"
+       id="rect3719-5-2"
+       width="3.7797618"
+       height="3.7797618"
+       x="25.4189"
+       y="273.56525"
+       ry="1.8898809" />
+    <rect
+       style="fill:#a0892c;fill-opacity:1;stroke:none;stroke-width:0.80719483;stroke-opacity:1"
+       id="rect3719-2-6"
+       width="3.7797618"
+       height="3.7797618"
+       x="18.615328"
+       y="292.37024"
+       ry="1.8898809" />
+  </g>
+</svg>

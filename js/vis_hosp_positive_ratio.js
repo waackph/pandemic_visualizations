@@ -71,7 +71,9 @@ d3.csv(base_url + "data/covid_tests/hosp_positive_preprocessed.csv",
         .entries(data);
 
         // add group colors
-        var res = sumstat.map(function(d){ return d.key })
+        var res = sumstat.map(function(d){ return d.key });
+        res.sort(function(a,b) { return +a - +b; });
+
         var color = d3.scaleOrdinal()
             .domain(res)
             .range(['#e41a1c','#377eb8','#4daf4a','#984ea3']);
@@ -85,11 +87,19 @@ d3.csv(base_url + "data/covid_tests/hosp_positive_preprocessed.csv",
                 .attr("stroke", function(d){ return color(d.key)})
                 .attr("stroke-width", 1.5)
                 .attr("d", function(d){
-                    return d3.line()
-                        .x(function(d) { return x(+d.week_date) })
-                        .y(function(d) { return y(d.test_hosp_ratio) })
-                        (d.values)
-                });
+                        return d3.line()
+                            .x(function(d) { 
+                                if(+d.week !== 53){
+                                    return x(+d.week_date);
+                                }
+                            })
+                            .y(function(d) { 
+                                if(+d.week !== 53){
+                                    return y(d.test_hosp_ratio);
+                                }
+                            })
+                            (d.values)
+        });
 
         // Add legend for color coding
         const groups = { 1: "Origin", 2: "Alpha", 3: "Delta", 4: "Omikron"}

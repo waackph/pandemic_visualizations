@@ -49,3 +49,13 @@ function AddYAxis(svgElem, data, col) {
     return y;
     }
     
+function sortByWeek(a, b) {
+    return +a.week - +b.week 
+}
+
+function sortByYearWeek(a, b) {
+    if(a.year === b.year) {
+        return +a.week - +b.week;
+    }
+    return +a.year - +b.year;
+}

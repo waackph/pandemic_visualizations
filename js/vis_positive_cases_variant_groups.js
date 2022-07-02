@@ -24,11 +24,8 @@ d3.csv(base_url + "data/covid_tests/covid_tests_preprocessed.csv",
 
     function(data) {
 
-        // data.sort(function(a,b) { return +a.week - +b.week })
-
         menuText = ["Calender week with years 2020-2022", "Calender week ignoring year for comparing"]
         xFeature = [{"date": "Calender week with years 2020-2022"}, {"week_date": "Calender week ignoring year for comparing"}];
-        console.log(Object.keys(xFeature[0])[0]);
         d3.select("#selectButton")
             .selectAll('myOptions')
             .data(xFeature)
@@ -57,9 +54,9 @@ d3.csv(base_url + "data/covid_tests/covid_tests_preprocessed.csv",
             .enter()
             .append("path")
                 .attr("fill", "none")
-                .attr("stroke", function(d){ return color(d.key)})
+                .attr("stroke", function(d) { return color(d.key) })
                 .attr("stroke-width", 1.5)
-                .attr("d", function(d){
+                .attr("d", function(d) {
                     return d3.line()
                         .x(function(d) { return x(+d.date) })
                         .y(function(d) { return y(d.amount_positive) })
@@ -77,7 +74,7 @@ d3.csv(base_url + "data/covid_tests/covid_tests_preprocessed.csv",
                 .attr("y", function(d,i){ return (height/2) + i*(size+5)})
                 .attr("width", size)
                 .attr("height", size)
-                .style("fill", function(d){ return color(d)})
+                .style("fill", function(d){ return color(d) })
 
         svg2.selectAll("legendTexts")
             .data(res)
@@ -86,13 +83,22 @@ d3.csv(base_url + "data/covid_tests/covid_tests_preprocessed.csv",
                 .attr("x", width + 10 + size*1.2)
                 .attr("y", function(d,i){ return (height/2) + i*(size+5) + (size/1.3)})
                 .style("fill", function(d){ return color(d)})
-                .text(function(d){ return groups[d]})
+                .text(function(d){ return groups[d] })
                 .attr("text-anchor", "left")
                 .style("alignment-baseline", "middle");
 
         // A function that update the chart
         function update(selectedGroup) {
 
+            // Sort the data basis according to week date or year and week date (chronologically)
+            if(selectedGroup == "week_date") {
+                data.sort(sortByWeek);
+            }
+            else {
+                data.sort(sortByYearWeek);
+            }
+
+            // change the domain according to week or date
             if(selectedGroup == "week_date") {
                 x.domain(d3.extent(data, function(d) { return d.week_date; })).range([0, width]);
                 svg2.select("#xLabel")
@@ -116,10 +122,32 @@ d3.csv(base_url + "data/covid_tests/covid_tests_preprocessed.csv",
             lines.transition()
                 .duration(1000)
                 .attr("d", function(d){
+                    if(selectedGroup === "week_date"){
+                        // Sort the values of the lines similar to data basis by week only
+                        d.values.sort(sortByWeek);
+                        // update line path, but exclude week 53 (original variant leading to line across plot)
+                        return d3.line()
+                            .x(function(d) {
+                                if(+d.week !== 53){
+                                    return x(+d[selectedGroup]);
+                                }
+                            })
+                            .y(function(d) {
+                                if(+d.week !== 53){
+                                    return y(d.amount_positive);
+                                }
+                            })
+                            (d.values)
+                    }
+                    else{
+                        // Sort the values of the lines similar to data basis by year and week
+                        d.values.sort(sortByYearWeek);        
                         return d3.line()
                             .x(function(d) { return x(+d[selectedGroup]) })
                             .y(function(d) { return y(d.amount_positive) })
                             (d.values)
+                    }
+
                 });
         }
 

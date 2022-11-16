@@ -1,4 +1,4 @@
-
+// Base URL for data resources
 const base_url = "https://raw.githubusercontent.com/waackph/pandemic_visualizations/docs/"
 // set the dimensions and margins of the graph
 var margin = {top: 10, right: 100, bottom: 80, left: 60};
